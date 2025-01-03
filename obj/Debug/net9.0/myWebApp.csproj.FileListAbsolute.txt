@@ -95,3 +95,4 @@ C:\Users\davem\repos\myWebApp\obj\Debug\net9.0\refint\myWebApp.dll
 C:\Users\davem\repos\myWebApp\obj\Debug\net9.0\myWebApp.pdb
 C:\Users\davem\repos\myWebApp\obj\Debug\net9.0\myWebApp.genruntimeconfig.cache
 C:\Users\davem\repos\myWebApp\obj\Debug\net9.0\ref\myWebApp.dll
+C:\Users\davem\repos\myWebApp\obj\Debug\net9.0\myWebApp.sourcelink.json
